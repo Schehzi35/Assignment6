@@ -470,8 +470,33 @@
 //     alert(firstVal/secondVal*100 + "%")
 // }
 
+// Chapter # 12-13
 
+// Task # 12.1
 
+// var a = prompt("Enter your Character");
+// alert(a.charCodeAt());
 
+// Task # 12.2
 
+// var firstNum = prompt("Enter any 1st value in Numbers");
+// var secondNum = prompt("Enter any 2nd value in Numbers");
+// if (firstNum > secondNum){
+//     alert(firstNum)
+// }else if (secondNum > firstNum){
+//     alert(secondNum)
+// }else if (firstNum === secondNum){
+//     alert("both are equal")
+// }
+
+// Task # 12.3
+
+// var num = prompt("Enter any number to show value is positve, nagative or zero")
+// if (num > 0){
+//     alert(num + " is positive number")
+// }else if (num < 0){
+//     alert(num + " is nagative number")
+// }else if (num === 0){
+//     alert("Zero")
+// }
 
